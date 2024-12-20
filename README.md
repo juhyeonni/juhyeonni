@@ -1,6 +1,7 @@
 <div class="stats" align="center">
 
   ![avatar](https://avatars.githubusercontent.com/u/64972038?v=4)
+  [![wakatime](https://wakatime.com/badge/user/adedaa9e-0289-4145-ac9b-3ca20a1077a1.svg)](https://wakatime.com/@adedaa9e-0289-4145-ac9b-3ca20a1077a1)
 
 </div>
 
